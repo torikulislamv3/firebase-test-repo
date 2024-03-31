@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.home,.btn-log{
+  color: yellow;
+  font-size: 20px;
+  padding: 15px;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+  background-color: gray;
+  border: none;
+  margin-right: 10px;
+}
+
+
+.navbar{
+  margin-top: 50px;
+  text-align: center;
+}
+
+.register{
+  margin-top: 60px;
+  text-align: center;
+}
